@@ -1,3 +1,5 @@
+Puede ubicar el repositorio en https://github.com/rubenq23/-EV_U3_QUINTERO_RUBEN
+
 Justificacion de mi Stack tecnologico.
 
 Estoy consciente de que Java es un lenguaje bastante verboso, con un tipado fuerte y muy estructurado, y que su curva de aprendizaje es un poco más lenta, sobre todo si se compara con frameworks enfocados en desarrollo rápido como Django para Python. Sin embargo, elegí irme por este camino porque esa misma rigurosidad me obliga a crear muy buenas bases técnicas, especialmente en programación orientada a objetos.
